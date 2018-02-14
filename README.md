@@ -1,6 +1,8 @@
 MyStockTracker
 =====
-Django application for managing stocks and view portfolio vs time plot
+Django application for managing stocks and view portfolio
+
+I have used Alpha Advantage Finance API to pull stocks data
 
 ## Installation and running
 ```bash
